@@ -20,7 +20,8 @@ That energy level explains why there have days we even don't want to go out to e
 The question is, how to make ourself full of energy everyday? How to make ourself amazing everyday?
 
   
-  
+![](/images/88fd11aa-082d-4fd2-89df-68150c60cab2/dumb.jpg)  
+
   
 [Photo's source][0]  
 
