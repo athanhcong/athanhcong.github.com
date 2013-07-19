@@ -18,3 +18,13 @@ That energy level explains why there have days we even don't want to go out to e
 
   
 The question is, how to make ourself full of energy everyday? How to make ourself amazing everyday?
+
+  
+  
+  
+[Photo's source][0]  
+
+  
+
+
+[0]: http://skreened.com/textteeswithattitude/i-m-smart-enough-to-know-that-i-m-dumb
