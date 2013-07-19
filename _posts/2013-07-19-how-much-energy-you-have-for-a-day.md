@@ -20,7 +20,7 @@ That energy level explains why there have days we even don't want to go out to e
 How much energy you have for a day, will define how amazing you are.
 
   
-The question is, how to get that power everyday?
+The question is, how to get that super power everyday?
 
   
 ![](/images/88fd11aa-082d-4fd2-89df-68150c60cab2/dumb.jpg)  
