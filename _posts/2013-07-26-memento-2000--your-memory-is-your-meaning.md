@@ -50,9 +50,7 @@ It's not easy for me to start my travelling + working trip. I was so excited tha
 Travelling does teach me a lot, but it also put me into a dangerous situation. I can totally forget my original purpose of my travelling trip, and starting a new lifestyle with different meaning of life. I want it make me a better person, not a changed person.
 
   
-Life is all about balance.
-
-  
+Life is all about balance. Learn, change but don't get lost.
 
 
 [0]: http://www.imdb.com/title/tt0209144/
