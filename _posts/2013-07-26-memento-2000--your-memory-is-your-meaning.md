@@ -8,7 +8,7 @@ Memento (2000) is a movie, it has this description in [IMDB][0]: "A man, sufferi
 I really love the movie, not only how it is shot, but also the special message it carries:
 
   
-**Our memory about our life defines what we will do, what we want to be, and even what is the meaning of our life?**
+**Our memory in life defines what we will do, what we want to be, and even what is the meaning of our life?**
 
   
 Memory is so important, but we never know how important it is until we lose it.
