@@ -13,10 +13,7 @@ I really love the movie, not only how it is shot, but also the special message i
   
 Memory is so important, but we never know how important it is until we lose it.
 
-If one day you wake up, surprisingly not knowing where you are, having no idea what to do, walking around and don't know any body you meet. Who are you?
-
-  
-That's when you know you need your memory for your life.
+If one day you wake up, suddenly not knowing where you are, having no idea what to do, walking around and don't know any body you meet Who are you? It's when you know you need your memory for your life.
 
   
 _Movie lovers, if you haven't watch the movie, you should stop here, because I gonna to telling about it._
@@ -24,12 +21,12 @@ _Movie lovers, if you haven't watch the movie, you should stop here, because I g
   
 The guy in the movie can not remember whatever he did yesterday, the day before yesterday, one month ago and more... but still can remember everything happened more than one year ago.
 
-How can anyone survives without meaning? No one can, the man character can not either.
+How can anyone survives without meaning? No one can, this man can not either.
 
-To survive, he makes his own meaning to survive. He creates a new memory system by notes and tattoos. He use whatever he can remember and create his new meaning of living. To revenge for his wife is the reason why he wake up everyday.
+To survive, he makes his own meaning to survive. He creates a new memory system by notes and tattoos. He use whatever he can remember and create his new meaning of living. To revenge for his wife is the new reason why he wake up everyday.
 
   
-**Human is smart, and human can "make" our own meaning for surviving.**
+**Human is smart, and human can "make" or change our own meaning for surviving.**
 
   
 ----
@@ -47,7 +44,7 @@ There have people who do traveling as a lifestyle, a life of moving. There have 
 It's not easy for me to start my travelling + working trip. I was so excited that I can do it and this is time for me to explore the world out there. I believe that there have something really great out there, something I never know before and travelling will teach me that.
 
   
-Travelling does teach me a lot, but it also put me into a dangerous situation. I can totally forget my original purpose of my travelling trip, and starting a new lifestyle with different meaning of life. I want it make me a better person, not a changed person.
+Travelling does teach me a lot, but it also put me into a dangerous situation. I can totally forget my original purpose of my travelling trip, and starting a new lifestyle with different meaning of life. I want it make me a better person, not a changed person. That's why I need to remind myself where I come from.
 
   
 Life is all about balance. Learn, change but don't get lost.
