@@ -28,7 +28,7 @@ To survive, he makes his own meaning to survive. He creates a new memory system 
   
   
   
-**If you are completely forget your past, and **
+**If you are completely forget your past, and define yourself with a new memory, you will become a different person.**
 
   
 - - -
