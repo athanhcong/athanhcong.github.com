@@ -8,7 +8,7 @@ Memento (2000) is a movie, it has this description in [IMDB][0]: "A man, sufferi
 I really love the movie, not only how it is shot, but also the special message it carries:
 
   
-**Our memory in life defines what we will do, what we want to be, and even what is the meaning of our life?**
+**Our memory defines what we will do, what we want to be, and even what is the meaning of our life.**
 
   
 Memory is so important, but we never know how important it is until we lose it.
@@ -27,14 +27,15 @@ To survive, he makes his own meaning to survive. He creates a new memory system 
 
   
   
-![](/images/808f2b49-6a8d-40cc-b7d4-04798f893ed2/memento-movie_poster-02.jpeg)  
+![](/images/808f2b49-6a8d-40cc-b7d4-04798f893ed2/memento-movie_poster-02.jpeg)
 
   
-  
-**If you are completely forget your past, and define yourself with a new memory, you will become a different person.**
+-  -
 
-  
-- - -
+**  
+**
+
+**If you are completely forget your past, and define yourself with a new memory, you will become a different person.**  
 
   
 This lesson is why I want to write about Memento. I don't have a condition of short-term memory loss, but when I'm travelling, I'm in a condition that make me constantly asking about my purpose of life. Why?
@@ -53,8 +54,6 @@ Travelling does teach me a lot, but it also put me into a dangerous situation. I
 
   
 **Life is all about balance. Learn, change but don't get lost.**
-
-  
 
 
 [0]: http://www.imdb.com/title/tt0209144/
