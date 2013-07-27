@@ -27,6 +27,10 @@ To survive, he makes his own meaning to survive. He creates a new memory system 
 
   
   
+![](/images/808f2b49-6a8d-40cc-b7d4-04798f893ed2/memento-movie_poster-02.jpeg)  
+
+  
+  
 **If you are completely forget your past, and define yourself with a new memory, you will become a different person.**
 
   
@@ -48,6 +52,9 @@ It's not easy for me to start my travelling + working trip. I was so excited tha
 Travelling does teach me a lot, but it also put me into a dangerous situation. I can totally forget my original purpose of my travelling trip, and starting a new lifestyle with different meaning of life. I want it make me a better person, not a changed person. That's why I need to remind myself where I come from.
 
   
-Life is all about balance. Learn, change but don't get lost.
+**Life is all about balance. Learn, change but don't get lost.**
+
+  
+
 
 [0]: http://www.imdb.com/title/tt0209144/
