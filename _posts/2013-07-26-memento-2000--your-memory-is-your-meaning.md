@@ -41,16 +41,19 @@ To survive, he makes his own meaning to survive. He creates a new memory system 
 This lesson is why I want to write about Memento. I don't have a condition of short-term memory loss, but when I'm travelling, I'm in a condition that make me constantly asking about my purpose of life. Why?
 
   
-Moving into new place we are physically leaving our past: our familiar place, people, friends, daily habits. At the same time, we meet new people, making new friends, learn new things, forming new habits. The new world is exciting enough to capture all of our time. We are losing connection to the past and probably the reason why we're travelling.
+Moving into new place we are physically leaving our past: our familiar place, people, friends, daily habits. At the same time, we meet new people, making new friends, learn new things, forming new habits. The new world is exciting enough to capture all of our time. We are losing connection to the past and probably to the reason why we're travelling.
 
   
 There have people who do traveling as a lifestyle, a life of moving. There have people who enjoy life by exploring new place, new people. There have people who travel to search for something, to find answer for a question. Whatever we want, travelling can change us a lot, it can transform our life.
 
   
-It's not easy for me to start my travelling + working trip. I was so excited that I can do it and this is time for me to explore the world out there. I believe that there have something really great out there, something I never know before and travelling will teach me that.
+It's not easy for me to start my travelling + working trip. I was so excited that I can do it. This is time for me to explore the world out there. I believe that there have something really great out there, something I never know before and travelling will teach me that.
 
   
-Travelling does teach me a lot, but it also put me into a dangerous situation. I can totally forget my original purpose of my travelling trip, and starting a new lifestyle with different meaning of life. I want it make me a better person, not a changed person. That's why I need to remind myself where I come from.
+Travelling does teach me a lot, but it also put me into a dangerous situation. Because I'm adding new memory every few weeks, I can unintentionally forget about my original purpose of my travelling trip. I may start a new lifestyle with different purpose of life without awareness of it. 
+
+  
+I want travelling make me a better person, not a changed person. I need to remind myself where I come from.
 
   
 **Life is all about balance. Learn, change but don't get lost.**
