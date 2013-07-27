@@ -23,13 +23,15 @@ The guy in the movie can not remember whatever he did yesterday, the day before 
 
 How can anyone survives without meaning? No one can, this man can not either.
 
-To survive, he makes his own meaning to survive. He creates a new memory system by notes and tattoos. He use whatever he can remember and create his new meaning of living. To revenge for his wife is the new reason why he wake up everyday.
+To survive, he makes his own meaning to survive. He creates a new memory system by notes and tattoos. He use whatever he can remember and create his new meaning of living. To revenge for his wife is the new reason why he wake up everyday. He tricks himself and never know about it.
 
   
-**Human is smart, and human can "make" or change our own meaning for surviving.**
+  
+  
+**If you are completely forget your past, and **
 
   
-----
+- - -
 
   
 This lesson is why I want to write about Memento. I don't have a condition of short-term memory loss, but when I'm travelling, I'm in a condition that make me constantly asking about my purpose of life. Why?
