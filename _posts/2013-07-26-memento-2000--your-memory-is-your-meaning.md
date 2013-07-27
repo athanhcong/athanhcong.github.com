@@ -27,7 +27,6 @@ To survive, he makes his own meaning to survive. He creates a new memory system 
 
   
   
-  
 **If you are completely forget your past, and define yourself with a new memory, you will become a different person.**
 
   
@@ -50,6 +49,5 @@ Travelling does teach me a lot, but it also put me into a dangerous situation. I
 
   
 Life is all about balance. Learn, change but don't get lost.
-
 
 [0]: http://www.imdb.com/title/tt0209144/
