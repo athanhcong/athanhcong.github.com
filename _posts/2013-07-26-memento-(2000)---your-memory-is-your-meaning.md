@@ -29,6 +29,7 @@ To survive, he makes his own meaning to survive. He creates a new memory system 
 ![](/images/808f2b49-6a8d-40cc-b7d4-04798f893ed2/memento-movie_poster-02.jpeg)  
 
   
+  
 **If you are completely forget your past, and define yourself with a new memory, you will become a different person.**
 
   
