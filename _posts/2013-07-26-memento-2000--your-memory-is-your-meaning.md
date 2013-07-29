@@ -30,7 +30,7 @@ To survive, guest what, he creates his own meaning. He creates a new memory syst
 ![](/images/808f2b49-6a8d-40cc-b7d4-04798f893ed2/memento-movie_poster-02.jpeg)
 
   
--  -
+\_ \_
 
 **  
 **
