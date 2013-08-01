@@ -16,10 +16,10 @@ I just have a belief in myself and I have to do "something" before it is too lat
 So how?
 
   
-I started for myself a [30 Day Challenge][0]****to****Think On My Path. Everyday from that day, I wrote a note for myself about why I want to quit, what I want to do, ideas I want to execute, things I need to learn... whatever relates to my next step.
+It's great that I know about [30 Day Challenge][0] during that time. So I started for myself a 30 Day Challenge to Think On My Path. Everyday from that day, I wrote a note for myself about why I want to quit, what I want to do, ideas I want to execute, things I need to learn... whatever relates to my next step.
 
   
-I wrote down notes whenever I had a new cool idea. Every night, I think about it. The road ahead gradually becomes clearer in my mind. Until, I have the confidence to let people know about my decision!
+I wrote down notes whenever I had new cool ideas. Every night, I think about it. The road ahead gradually becomes clearer in my mind. Until, I have the confidence to let people know about my decision!
 
   
 ![](/images/332a0b2d-1608-437b-835f-793e7e3afcec/thoughts.jpg)  
