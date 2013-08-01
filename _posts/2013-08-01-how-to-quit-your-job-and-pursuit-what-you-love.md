@@ -4,7 +4,7 @@ title: How to quit your job and pursuit what you love?
 ---
 It's not easy to walk your own path, so **don't quit!**  
 
-But if you want to start your thing so bad, and don't know how to quit. Here is my experience.
+But if you really want to start your thing, so bad that you have to quit and don't know how to, here are my experience.
 
   
 When I made my decision to quit, I'm still very scared. On one hand, I'm losing a good job, a good environment to learn and even the visa to stay in the country. On another hand, I'm facing problems: no secure finance, no teamwork, and above all I'm not really sure what to do next?
@@ -25,10 +25,13 @@ I wrote down notes whenever I had a new cool idea. Every night, I think about it
 ![](/images/332a0b2d-1608-437b-835f-793e7e3afcec/thoughts.jpg)  
 
   
+It's 6 months after I left my job, and I feel very happy with my decision.
+
+  
 [Image Credit][1]  
 
   
-For HL
+For HL  
 
 
 [0]: http://on.ted.com/Cutts
