@@ -13,7 +13,7 @@ How will I wake up and spend my day in the way that I feel the most satisfied?
 Imagine and see. 
 
   
-I found that this kind of questions helps me sort my life. Pop out my priorities when I need to make choices, but get confused.
+I found that this kind of questions helps me sort my life. Pop out my priorities when I need to make choices and confused.
 
 It also give me hint what I need to do, when I ask myself, what is the difference of me currently and the imagined me next 5 years?
 
