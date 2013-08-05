@@ -15,7 +15,7 @@ Imagine and see.
   
 I found that this kind of questions helps me sort my life. Pop out my priorities when I need to make choices and confused.
 
-It also give me hint what I need to do, when I ask myself, what is the difference of me currently and the imagined me next 5 years?
+It also give me hints what direction I need to go, when I ask myself, what is the difference of me currently and the imagined me next 5 years?
 
   
 \_ \_
