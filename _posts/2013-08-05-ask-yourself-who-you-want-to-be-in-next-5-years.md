@@ -5,7 +5,7 @@ title: Ask yourself who you want to be in next 5 years?
 Today, I'm sitting down, breathing and asking myself this question. 
 
   
-_What type of person I want to be in next 5 years? What type of work I want to do? _
+_What type of person I want to be in next 5 years? What type of work I want to do?_
 
 _How will I wake up and spend my day, in the way that I feel the most satisfied?_
 
