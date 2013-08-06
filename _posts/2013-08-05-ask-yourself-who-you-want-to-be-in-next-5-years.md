@@ -36,10 +36,7 @@ If I won't do these things, I won't be happy. Whatever I plan to do, it should a
 
   
   
-![](/images/16acebee-6abb-467c-b1ce-664deef8a529/steve-jobs01.jpg)  
-
-  
-\_ \_
+![](/images/16acebee-6abb-467c-b1ce-664deef8a529/steve-jobs01.jpg)
 
   
 So what you are waiting for? Who are you in next 5 years?
