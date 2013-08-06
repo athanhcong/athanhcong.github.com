@@ -30,3 +30,10 @@ Won't. It's not those things that make me feel satisfied.
 It's working with great people, inspire and get inspired. It's solving people' problems. It's helping others. It's making good impart on others lives. It's creating value.
 
 If I won't do these things, I won't be happy. Whatever I plan to do, it should aim for this purpose.
+
+  
+\_ \_
+
+  
+  
+![](/images/16acebee-6abb-467c-b1ce-664deef8a529/steve-jobs01.jpg)
