@@ -16,7 +16,7 @@ Imagine and see.
 I found that this kind of questions helps me sort my life. Pop out my priorities when I need to make choices and confused. Sometimes different options in life appear to be very similar, but in the long run, they are very different paths. Sometimes the same things we do today, can lead to very different outcome. You need to be very clear about what you want.
 
   
-It also give me some hints on what direction I need to go, when asking myself, what is the difference of me currently and the imagined me next 5 years?
+Above all, you can get some hints about what you should focus on, in order to maximise your ability.
 
   
 \_ \_
