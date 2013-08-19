@@ -16,7 +16,7 @@ _How will I wake up and spend my day, in the way that I feel the most satisfied?
 I found that this kind of questions helps me sort my life. Pop out my priorities when I need to make choices and be confused. Sometimes different options in life appear to be very similar, but in the long run, they are very different paths. Sometimes the same things we do today, can lead to very different outcomes. You need to be very clear about what you want.
 
   
-Above all, you can get some hints about what you should focus on, in order to maximise your ability.
+Above all, you can get some hints about what you should focus on right now, in order to maximise your ability.
 
   
 \_ \_  
