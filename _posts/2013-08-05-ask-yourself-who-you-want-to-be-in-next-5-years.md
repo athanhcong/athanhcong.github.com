@@ -18,8 +18,7 @@ I found that this kind of questions helps me sort my life. Pop out my priorities
   
 Above all, you can get some hints about what you should focus on right now, in order to maximise your ability.
 
-  
-\_ \_  
+Tieng\_ \_  
 
   
 Will the feeling of having a big company make me happy? Will I be super busy working on business stuff and managing? How about having lots of money and a luxury life?   
