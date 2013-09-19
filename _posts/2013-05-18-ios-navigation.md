@@ -6,12 +6,12 @@ tag: startup, ui, ux, ios, navigation
 ---
 _To use Tab Bar or to use Sidebar, that is the question?_
 
-Tab Bar navigation is a standard navigation in iOS, which can be found in Twitter app or Instagram app. While Sidebar navigation is a newer trend, you can find in popular app like Facebook or Path.
+These 2 types of navigations are very common in iOS: Tab Bar navigation is a standard navigation in iOS, which can be found in Twitter app or Instagram app. While Sidebar navigation is a newer trend, you can find in popular app like Facebook or Path.
 
 ![](/images/2013/instagram-tabbar.png)
 ![](/images/2013/facebook-sidebar.png)
 
-It's interesting that 4 apps above (Twitter, Instagram, Facebook, Path)are all social apps, but they have different ways to present available functions in the app.  How did each app choose their UI? If you are building your new iOS app, which kind of navigation will you use?
+It's interesting that 4 apps above (Twitter, Instagram, Facebook, Path) are all social apps, but they have different ways to present themselves. _How did each app choose their UI? If you are building your new iOS app, which kind of navigation will you use?_
 
 Let's consider some of the differences between these 2 UI patterns:
 
@@ -64,8 +64,8 @@ Path app, add their action button at the bottom-right corner. It's a good soluti
 
 
 # Summary
-In mobile app, where user experience is very important, it takes you time to decide which UI pattern is suitable for your app, which makes your app natural to use, easy to remember, convienient to access?
+In mobile space, where user experience is very important, it takes you time to decide which UI pattern is suitable for your app, which makes your app natural to use, easy to remember, convienient to access?
 
-Howerver if you need a quick reference, I would say that Tab Bar is more suitable for mobile-first (social) app. Where creating content in app is more important than browsing content and you need to show users that you have more than 1 useful features.
+If you still need a quick reference, I would say that Tab Bar is more suitable for mobile-first (social) app. Where creating content in app is more important than browsing content and you need to show users that you have more than 1 useful features.
 
 Sidebar is suitable for consuming app, where content can be created outside the app.
