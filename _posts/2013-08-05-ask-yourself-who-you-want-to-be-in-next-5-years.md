@@ -18,7 +18,7 @@ I found that this kind of questions helps me sort my life. Pop out my priorities
   
 Above all, you can get some hints about what you should focus on right now, in order to maximise your ability.
 
-Tieng\_ \_  
+\_ \_  
 
   
 Will the feeling of having a big company make me happy? Will I be super busy working on business stuff and managing? How about having lots of money and a luxury life?   
@@ -39,6 +39,3 @@ If I won't do these things, I won't be happy. Whatever I plan to do, it should a
 
   
 So what are you waiting for? Who are you in next 5 years?
-
-  
-![](/images/16acebee-6abb-467c-b1ce-664deef8a529/screen-shot-2013-07-16-at-12.27.04-pm.png)
