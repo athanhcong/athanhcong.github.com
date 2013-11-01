@@ -1,0 +1,37 @@
+VO THANH CONG
+
+ * Email: athanhcong@gmail.com 
+ * Homepage: http://kong.vn
+
+
+##5 things about me
+
+I learn Mathematics in College.
+My objection in life is to prove that everyone can reach whatever dream in their life
+After college, I work in IT as a software engineer for 4 years.
+I love adventurous travelling, I used to cycle 200+km continuously from 5AM to 11PM.
+I'm passionate about education and self-improvement, now building a education startup.
+
+## About my working
+I'm a self-taught software engineer. 
+
+I started working on iPhone app since 2009, we are one of the first few companies which build iOS apps in Vietnam.
+I won first prize of Saigon Mobile DevCamp in 2010
+My second company is Greengar, we build Whiteboard app that now have more than 10M downloads.
+I worked in Singapore for 1 and a half year, being CTO of Babygram (Stickery), the company that build education apps for young kids and parents.
+
+## About my personal projects
+I build app that I found useful
+Promise App, an app help people keep track of their habits
+30 Day iOS Challenge: I organise a courses that teach people without programming experience build their iOS apps in 30 days. 12 participants over 20 succeeded.
+Challenge App the app help people achieve their 30 Days Challenge.
+BlogWith is a productivity tool for writing blog posts right in Evernote, publishing into Wordpress, Jekyll, Tumblr.
+Cool Quote, a simple & beautiful app for reading and sharing quotes from Twitter. Breaktify for Macs, an app that remind people to take break regularly.
+
+## About my startup
+Our small effort to help Vietnamese catchup with Singapore, Malaysia, Thailand, Philippine and … Cambodia in English learning.
+The more connected with the world, the more opportunities for Vietnamese youth.
+We build Y Academy, we dream that "Every Vietnamese is a global citizen"
+Checkout our beta launch of tudienhinh.com
+
+_Startup is so tough, I really need your help…_
