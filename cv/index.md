@@ -1,5 +1,7 @@
 #VO THANH CONG
 
+<img class="logo" src="http://kong.vn/images/kong.png" style="padding-left: 40px;"/>
+
  * Email: athanhcong@&nbsp;gmail.com
  * Homepage: [kong.vn](http://kong.vn)
 
