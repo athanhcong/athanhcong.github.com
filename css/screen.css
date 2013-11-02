@@ -237,6 +237,10 @@ ul.posts {
     background-color: #333;
   }
 
+.posts li {
+  line-height: 2em;
+  font-size: 18px;
+}
 #related {
   margin-top: 2em;
 }
