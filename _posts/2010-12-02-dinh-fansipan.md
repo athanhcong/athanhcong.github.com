@@ -24,14 +24,16 @@ Có những điều con người ta tưởng như là to tát, rằng có lẽ h
 
 Cùng đợt leo Fan với tụi mình có 1 nhóm 24 bạn làm ở cty Bảo hiểm gì đó, ngày đầu các bạn ấy đã vượt hơn 900m (về độ cao)rừng núi để đi đến trạm 2800m, ngủ 1 đêm ở đó chờ rạng sáng sẽ đi nốt đoạn đường còn lại để lên nóc 3143m, thế nhưng sáng hôm sau, đoàn ấy chia làm 2 tốp 12 lên thẳng trên núi, 12 còn lại quay trở xuống! Đã lên đến 2800m, chỉ còn 1 đoạn đường "ngắn" nữa mà ko lên được đỉnh. Thật là tiếc! Hy vọng các bạn ấy chỉ thua cuộc lần này, chứ đừng bỏ cuộc.
 
-![](http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs601.ash2/155300_1735922599532_1282610715_1986511_2277332_n.jpg)
+![](/2010/fansipan-huong.jpg)
+
 Chụp cùng Hương - đoàn mình và các bạn sinh viên Mỹ
 
 Leo Fan không quá hiểm trở, leo Fan thử thách bạn ở sức bền, bởi bạn sẽ phải đi bộ, leo dốc khá nhiều, nhất là ngày thứ 2 bạn phải leo từ gần như liên tục 7h sáng cho đến gần 6h tối. Nếu không chuẩn bị thể lực, đến cuối ngày, chân bạn sẽ cực kì đau nhứt, leo xuống mà cứ tưởng như sắp chết (theo lời của bạn Ấn trong đoàn mình).
 
 Hành trình khó khăn nhất của mình là đoạn đường cuối từ trạm 2800 lên đỉnh, bởi lúc này mình leo một mình lên đỉnh trước, không phải đợi mọi người trong nhóm. Đoạn đường này nhiều dốc, phải leo lên nhiều tảng đá núi to. Mình thì cứ 2 chân 2 tay vừa bám vừa leo, lên đến giữa đường, thấy 1 chị người Mông gùi hàng lên đỉnh bán, tay cầm dù che mua, đủng đỉnh hai chân bước lên dốc đá một cách nhẹ nhàng. Không tin được! Lúc leo bám theo chị đó mệt kinh khủng, chân cứ chùn lại cứ như muốn chuột rút, mà cái chị người Mông đó đi chẳng có nghỉ mệt gì, cứ bước tới hoài. Ráng leo theo mà cứ nghĩ, giá như bà này nghe điện thoại dừng lại 1 tí cho mình nghỉ thì khỏe rồi. Leo theo chị khoảng hơn 1 tiếng sau thì tới đỉnh, nhanh đến không ngờ!
 
-![](http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs605.ash2/155785_1735923879564_1282610715_1986518_8338767_n.jpg)
+![](/2010/fansipan-chi-nguoi-mong.jpg)
+
 Mình và chị người Mông lúc ở láng 2800m
 
 ##Porter ở đây khỏe kinh khủng
@@ -40,7 +42,8 @@ Mình và chị người Mông lúc ở láng 2800m
 
 Trong lúc đi từ láng 2200 lên láng 2800, mình có thử lấy cái gùi ấy mang thử, lúc đầu nhấc ko lên, sau đó rùi cũng gồng tay lên, đi được vài mét thì thấy cái gùi lắc qua lại mà sợ, lúc leo lên dốc đá, một tay mình phải giữ cái gùi, 1 tay thì bám vào thanh tre bên đường, cứ thế cúi mặt đi, phải công nhận là quá nặng, mình cố leo lên, chứ thả ra giữa chừng thì mất mẹt wa', cuối cùng cũng leo qua được con dốc (chỉ) hơn 50m là đuối!
 
-![](http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs586.ash2/150843_1735940599982_1282610715_1986617_6751763_n.jpg)
+![](/2010/fansipan-anh-poster.jpg)
+
 Mình và anh porter trên đoạn đường xuống
 
 ##Đến rồi lại đi, leo xong bạn còn lại được gì?
@@ -53,10 +56,10 @@ Có những lúc tưởng chừng như không thể đi được nữa, bạn t�
 
 Có lẽ những người bạn đồng hành với mình, những người chẳng có chuẩn bị thể lực gì cho chuyến đi, là người hiểu rõ cái cảm giác này hơn cả. Đó là Hằng - dân làm văn phòng ở HN, bạn này ngộ nhá lúc đến chân núi, vẫn còn nói buồn ngủ, chẳng chịu xuống xe, nói thật nhá, lúc đó mình chẳng nghĩ bạn ấy sẽ lên được đến 2200m đâu, trước đó mình còn hỏi han kỹ lưỡng phương án giải quyết, nếu như 1 thành viên trong đoàn ko thể leo nổi nữa. Ấy thế mà bạn ấy vẫn cùng ngủ đêm với nhóm ở láng 2800m, sáng hôm sau lại có trục trặc, tưởng không đi nỗi, thế mà hôm đó vẫn leo trèo liên tục gần 10 tiếng nữa. Khiếp! Anh chàng Ấn phải vác 80kg thịt của mình lên xuống cũng rất cừ. Mình còn nhớ cậu ta nói rằng lúc đi xuống cậu ta tưởng mình như sắp chết rùi. Hihi, bi h vẫn còn nhăn răng :) Bạn gái còn lại trong đoàn, leo núi cũng rất cừ, mình thích bạn này: leo mệt cỡ nào cũng không thấy kêu ca 1 tiếng nào. Thế đấy, dù mệt thế nào, mọi người cũng đã hoàn thành được chuyến đi của mình.
 
-![](http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs618.ash2/157005_1735929239698_1282610715_1986554_4701041_n.jpg)
+![](/2010/fansipan-champion.jpg)
 We are the champion :)
 
 Có người bảo, khùng sao mà vác thân đi hành xác; nhưng hành trình Fansipan là hành trình giúp bạn nhận ra được "giới hạn của mình dường như ko có giới hạn" 
 
-![](http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs1208.snc4/156061_1735930119720_1282610715_1986560_4555412_n.jpg)
+![](/2010/fansipan-nui.jpg)
 Núi non hùng vĩ Fansipan. Hẹn gặp lại 1 ngày gần đây.

@@ -33,9 +33,9 @@ Nhưng mà, cuộc sống của ta đâu chỉ có mỗi ta…
 
 Cuộc sống quanh ta là 1 dòng chảy, hết thế hệ này đến thế hệ kia, trong dòng chảy đó mỗi chúng ta dần hiểu ra 1 quy luật sống: Có qua có lại - có nhận lại, có cho đi.
 
-Bạn nghĩ sao về một kẻ chỉ biết nhận lại, bao nhiêu cũng về mình và vì mình; mà lại chẳng từng cho đi 1 cái gì đó.
+Bạn nghĩ sao về một kẻ chỉ biết nhận lại, bao nhiêu cũng về mình và vì mình; mà lại chẳng từng cho đi 1 cái gì đó?
 
-Có những sự cho đi vô bờ bến, không cần sự đáp lại: từ những ngày bé nhỏ, ta nhận được biết bao tình thương và sự chăm sóc của cha mẹ. Ngày nào đó, đến lượt ta, ta hãy dành hết tình yêu và tương lai cho một thế hệ mới
+Có những sự cho đi vô bờ bến, không cần sự đáp lại: từ những ngày bé nhỏ, ta nhận được biết bao tình thương và sự chăm sóc của cha mẹ. Ngày nào đó, đến lượt ta, ta hãy dành hết tình yêu và tương lai cho một thế hệ mới!
 
 Cũng có những sự nhận lấy rất nhẹ nhàng, đôi khi ta quên mất rằng ta đã may mắn hơn rất nhiều bạn thế hệ trước, không phải chiến đấu với bệnh tật (vì ta đã có bao loại vắc-xin), không phải vật lộn với đói khát (vì xã hội đã sản xuất được nhiều thực phẩm hơn), không phải đối mặt với bom mìn chết chóc (vì đã có những hy sinh thầm lặng, giữ cho ta yên bình). Một ngày trời nóng, được ngồi dễ chịu trong 1 phòng máy lạnh, ta có nghĩ về một người nào đó đã nghĩ ra chiếc máy lạnh, ông ấy hẳn đã làm một điều hữu ích cho người khác. Cái mà ông ta để lại, thật là tuyệt cho chính ta lúc này. Chắc hẳn nếu ai cũng chỉ có sinh ra và chết đi cho riêng mình, liệu ta có được thoả mái như ngày nay, hay tất cả chúng ta vẫn phải vào rừng hái lợm.
 
