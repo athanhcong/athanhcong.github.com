@@ -33,13 +33,13 @@ Bạn cần đọc kỹ những hướng dẫn, trước khi bắt đầu xuốn
 
 Để có được một cái nhìn tổng quát về các động tác bơi và quá trình học, hãy xem qua video về kỹ thuật bơi ếch:
 
-[youtube=http://www.youtube.com/watch?v=TquTh16_AWo&amp;w=640&amp;h=385]
+<iframe width="640" height="480" src="//www.youtube.com/embed/TquTh16_AWo" frameborder="0" allowfullscreen></iframe>
 
 Bây giờ, đọc và nhớ kỹ các hướng dẫn sau:
 
 <strong>Thả nổi</strong>
 
-<img class=" wp-image-428 alignnone" title="ngoi xom" src="http://kong.vn/wp-content/uploads/2012/02/ngoi-xom.jpg" alt="" width="192" height="270" />
+<img class=" wp-image-428 alignnone" title="ngoi xom" src="/images/2012/ngoi-xom.jpg" alt="" width="192" height="270" />
 
 Để biết bơi, đầu tiên là phải quen với cảm giác nổi trên mặt nước. Khi chưa biết bơi, mỗi lúc xuống nước, ta cứ sợ bị chìm nghỉm luôn. Bạn yên tâm, cơ thể mình hoàn toàn có thể nổi được một cách tự nhiên.
 Bắt đầu bài tập này, bạn hít vào một hơi dài, nín thở, úp mặt xuống nước, co người, co hai chân lại, hai tay ôm lấy hai đầu gối, giống như tư thế ngồi xổm. Một lúc sau bạn sẽ thấy lưng mình đang nổi trên mặt nước. Bạn sẽ thấy dù có ra sông, cơ thể mình vẫn nổi 1 cách tự nhiên chứ ko chìm luôn đâu.
