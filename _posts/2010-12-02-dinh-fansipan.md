@@ -22,7 +22,7 @@ Lúc mới biết được đi HN cũng ham đi Fan lắm. Biết là phải r�
 
 Có những điều con người ta tưởng như là to tát, rằng có lẽ họ sẽ không bao giờ làm được, họ không thử, và chẳng bao giờ làm được. Thế nhưng, nếu đã dám đương đầu 1 lần, họ chợt nhận ra điều đó cũng không phải quá khó khăn. Thậm chí, sau khi leo xong, nhìn lại, họ còn nghĩ, làm cái quái gì mình có thế leo qua được chỗ này. Hãy dám mạo hiểm (take risk) bạn sẽ nhận được những món quà bất ngờ, tuyệt đẹp.
 
-Cùng đợt leo Fan với tụi mình có 1 nhóm 24 bạn làm ở cty Bảo hiểm gì đó, ngày đầu các bạn ấy đã vượt hơn 900m (về độ cao)rừng núi để đi đến trạm 2800m, ngủ 1 đêm ở đó chờ rạng sáng sẽ đi nốt đoạn đường còn lại để lên nóc 3143m, thế nhưng sáng hôm sau, đoàn ấy chia làm 2 tốp 12 lên thẳng trên núi, 12 còn lại quay trở xuống! Đã lên đến 2800m, chỉ còn 1 đoạn đường "ngắn" nữa mà ko lên được đỉnh. Thật là tiếc! Hy vọng các bạn ấy chỉ thua cuộc lần này, chứ đừng bỏ cuộc.
+Cùng đợt leo Fan với tụi mình có 1 nhóm 24 bạn làm ở cty Bảo hiểm gì đó, ngày đầu các bạn ấy đã vượt hơn 900m (về độ cao)rừng núi để đi đến trạm 2800m, ngủ 1 đêm ở đó chờ rạng sáng sẽ đi nốt đoạn đường còn lại để lên nóc 3143m. Thế nhưng sáng hôm sau, đoàn ấy chia làm 2 tốp 12 lên thẳng trên núi, 12 còn lại quay trở xuống! Thật là tiếc!
 
 ![](/images/2010/fansipan-huong.jpg)
 
