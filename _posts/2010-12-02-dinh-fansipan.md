@@ -60,7 +60,7 @@ Có lẽ những người bạn đồng hành với mình, những người ch�
 
 We are the champion :)
 
-####Có người bảo, khùng sao mà vác thân đi hành xác; nhưng hành trình Fansipan là hành trình giúp bạn nhận ra được <big>__"giới hạn của mình dường như ko có giới hạn"__</big>
+Có người bảo, khùng sao mà vác thân đi hành xác; nhưng hành trình Fansipan là hành trình giúp bạn nhận ra được <big>__"giới hạn của mình dường như ko có giới hạn"__</big>
 
 ![](/images/2010/fansipan-nui.jpg)
 
