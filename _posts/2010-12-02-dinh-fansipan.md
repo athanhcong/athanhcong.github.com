@@ -33,7 +33,6 @@ Leo Fan không quá hiểm trở, leo Fan thử thách bạn ở sức bền, b�
 Hành trình khó khăn nhất của mình là đoạn đường cuối từ trạm 2800 lên đỉnh, bởi lúc này mình leo một mình lên đỉnh trước, không phải đợi mọi người trong nhóm. Đoạn đường này nhiều dốc, phải leo lên nhiều tảng đá núi to. Mình thì cứ 2 chân 2 tay vừa bám vừa leo, lên đến giữa đường, thấy 1 chị người Mông gùi hàng lên đỉnh bán, tay cầm dù che mua, đủng đỉnh hai chân bước lên dốc đá một cách nhẹ nhàng. Không tin được! Lúc leo bám theo chị đó mệt kinh khủng, chân cứ chùn lại cứ như muốn chuột rút, mà cái chị người Mông đó đi chẳng có nghỉ mệt gì, cứ bước tới hoài. Ráng leo theo mà cứ nghĩ, giá như bà này nghe điện thoại dừng lại 1 tí cho mình nghỉ thì khỏe rồi. Leo theo chị khoảng hơn 1 tiếng sau thì tới đỉnh, nhanh đến không ngờ!
 
 ![](/images/2010/fansipan-chi-nguoi-mong.jpg)
-
 Mình và chị người Mông lúc ở láng 2800m
 
 ##Porter ở đây khỏe kinh khủng
@@ -43,7 +42,6 @@ Mình và chị người Mông lúc ở láng 2800m
 Trong lúc đi từ láng 2200 lên láng 2800, mình có thử lấy cái gùi ấy mang thử, lúc đầu nhấc ko lên, sau đó rùi cũng gồng tay lên, đi được vài mét thì thấy cái gùi lắc qua lại mà sợ, lúc leo lên dốc đá, một tay mình phải giữ cái gùi, 1 tay thì bám vào thanh tre bên đường, cứ thế cúi mặt đi, phải công nhận là quá nặng, mình cố leo lên, chứ thả ra giữa chừng thì mất mẹt wa', cuối cùng cũng leo qua được con dốc (chỉ) hơn 50m là đuối!
 
 ![](/images/2010/fansipan-anh-poster.jpg)
-
 Mình và anh porter trên đoạn đường xuống
 
 ##Đến rồi lại đi, leo xong bạn còn lại được gì?
