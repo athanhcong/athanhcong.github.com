@@ -24,7 +24,7 @@ meta:
 What is your first impression with the iPhone or any smart phone nowadays?
 To me, that is how people touch their fingers to screen, use gestures to manipulate objects, like pan to move or pinch to zoom a map, a photo...
 
-[caption id="attachment_511" align="alignnone" width="400" caption="Gestures like &quot;pan to move&quot; or &quot;pinch to zoom&quot; become industry standard. (Image source: top9tip.com)"]<a href="http://kong.vn/wp-content/uploads/2011/09/zoom-gesture.jpg"><img class="size-full wp-image-511 " title="zoom-gesture" src="http://kong.vn/wp-content/uploads/2011/09/zoom-gesture.jpg" alt="" width="400" height="266" /></a>[/caption]
+[caption id="attachment_511" align="alignnone" width="400" caption="Gestures like &quot;pan to move&quot; or &quot;pinch to zoom&quot; become industry standard. (Image source: top9tip.com)"]<a href="http://kong.vn/images/2011/09/zoom-gesture.jpg"><img class="size-full wp-image-511 " title="zoom-gesture" src="http://kong.vn/images/2011/09/zoom-gesture.jpg" alt="" width="400" height="266" /></a>[/caption]
 
 This post will show you how to implement your own pan/zoom. Let's check how we can play with photos in Pic Collage and get some feeling what we are going to build.
 
@@ -36,7 +36,7 @@ If you do not know anything about that, <a href="http://www.raywenderlich.com/52
 
 So now, you know how to load an image into a texture and display it in 2D way.
 You are getting this screenshot, after remove all of 3D and rotation stuff.
-<a href="http://kong.vn/wp-content/uploads/2011/09/texture-opengl.png"><img class="alignnone size-full wp-image-512" title="texture-opengl" src="http://kong.vn/wp-content/uploads/2011/09/texture-opengl.png" alt="" width="232" height="349" /></a>
+<a href="http://kong.vn/images/2011/09/texture-opengl.png"><img class="alignnone size-full wp-image-512" title="texture-opengl" src="http://kong.vn/images/2011/09/texture-opengl.png" alt="" width="232" height="349" /></a>
 
 Let's go throught some other settings.
 Change our viewport from Perspective to Orthographic. Learn how they are different <a href="http://iphonedevelopment.blogspot.com/2009/04/opengl-es-from-ground-up-part-3.html" target="_blank">from here</a>.
@@ -104,7 +104,7 @@ How to keep that corner stay in screen when we want to zoom at it.
 + We first make a zoom, as usual, at center of screen.
 + Then, perform a pan to move the corner back to appropriate part of screen.
 
-[caption id="attachment_518" align="alignnone" width="310" caption="We want to pan Ao back to A"]<img class="size-full wp-image-518" title="zoom-moving" src="http://kong.vn/wp-content/uploads/2011/09/zoom-moving.png" alt="" width="310" height="239" />[/caption]
+[caption id="attachment_518" align="alignnone" width="310" caption="We want to pan Ao back to A"]<img class="size-full wp-image-518" title="zoom-moving" src="http://kong.vn/images/2011/09/zoom-moving.png" alt="" width="310" height="239" />[/caption]
 
 This is a tough part: understand the hierachy of drawing a texture from OpenGL to UIKit view. Take a look at how we draw a texture again.
 <pre>Texture------&gt; OpenGLES framebuffer ---&gt; UIView -&gt; iPhone screen</pre>
@@ -112,7 +112,7 @@ In the opposite way, when we touch a point in iPhone screen (1), the point is se
 
 I sketched some illustration:
 
-<img class="alignnone  wp-image-513" title="OpenGL drawing" src="http://kong.vn/wp-content/uploads/2011/09/OpenGL-drawing.png" alt="" width="625" height="681" />
+<img class="alignnone  wp-image-513" title="OpenGL drawing" src="http://kong.vn/images/2011/09/OpenGL-drawing.png" alt="" width="625" height="681" />
 
 To know how to pan Ao back to A, we need to know where it is after zooming, to know that we will check how a point's coordination, for example A(0, 0) is transformed through these layers.
 

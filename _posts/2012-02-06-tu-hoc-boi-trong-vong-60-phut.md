@@ -13,7 +13,7 @@ meta:
   _edit_last: '1'
   al2fb_facebook_link_id: '1282610715_3206423561137'
   al2fb_facebook_link_time: '2012-02-06T12:24:20+00:00'
-  al2fb_facebook_link_picture: post=http://kong.vn/wp-content/uploads/2012/02/ngoi-xom.jpg
+  al2fb_facebook_link_picture: post=http://kong.vn/images/2012/02/ngoi-xom.jpg
   al2fb_facebook_error: ! 'Import comment: Error validating access token: Session
     has expired at unix time 1332949787. The current unix time is 1334171003.'
   al2fb_facebook_error_time: '2012-04-11T19:03:23+00:00'

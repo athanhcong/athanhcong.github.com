@@ -5,7 +5,7 @@ tags:
 - Me
 - Vietnamese
 ---
-<h1><img class="alignnone size-full wp-image-661" title="yume" src="http://kong.vn/wp-content/uploads/2012/04/yume.png" alt="" width="1060" height="636" /></h1>
+<h1><img class="alignnone size-full wp-image-661" title="yume" src="http://kong.vn/images/2012/04/yume.png" alt="" width="1060" height="636" /></h1>
 <h1>Ngày được yêu thương</h1>
 Anh ngồi nghĩ,
 ngày được yêu thương anh sẽ làm gì?

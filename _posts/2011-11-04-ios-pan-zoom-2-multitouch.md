@@ -50,16 +50,16 @@ To find it, firstly let's perform some UI tests on Google Maps app to see how r
 
 1. Put 2 fingers on screen, pinch to zoom. Zoom is performed with scale: how far your finger is expanded.
 
-<img class="alignnone size-full wp-image-531" title="multitouches-test1" src="http://kong.vn/wp-content/uploads/2011/11/multitouches-test1.jpg" alt="" width="320" height="210" />
+<img class="alignnone size-full wp-image-531" title="multitouches-test1" src="http://kong.vn/images/2011/11/multitouches-test1.jpg" alt="" width="320" height="210" />
 
 The image is enlarged with a scale A'B'/AB  
 2. Hold a finger on screen, move another, the map's zoomed, 2 marks is still under your finger.
 
-<a href="http://kong.vn/wp-content/uploads/2011/11/multitouches-test3.jpg"><img class="alignnone size-full wp-image-533" title="multitouches-test3" src="http://kong.vn/wp-content/uploads/2011/11/multitouches-test3.jpg" alt="" width="320" height="144" /></a>
+<a href="http://kong.vn/images/2011/11/multitouches-test3.jpg"><img class="alignnone size-full wp-image-533" title="multitouches-test3" src="http://kong.vn/images/2011/11/multitouches-test3.jpg" alt="" width="320" height="144" /></a>
 
 3. In Maps, if you put your first finger on location A, another finger on location B, after preforming pan/zoom, both locations are still right under your finger, no matter how many time you zoom out, then in.
   
-<img class="alignnone size-full wp-image-532" title="multitouches-test2" src="http://kong.vn/wp-content/uploads/2011/11/multitouches-test2.jpg" alt="" width="320" height="115" />
+<img class="alignnone size-full wp-image-532" title="multitouches-test2" src="http://kong.vn/images/2011/11/multitouches-test2.jpg" alt="" width="320" height="115" />
 
 2 point O and X are still under 2 fingers after zooming
 
@@ -67,11 +67,11 @@ The image is enlarged with a scale A'B'/AB
 
 5. Pan and zoom can be performed at the same time
 6. 
-  <a href="http://kong.vn/wp-content/uploads/2011/11/multitouches-test4.jpg"><img class="alignnone size-full wp-image-534" title="multitouches-test4" src="http://kong.vn/wp-content/uploads/2011/11/multitouches-test4.jpg" alt="" width="320" height="195" /></a>
+  <a href="http://kong.vn/images/2011/11/multitouches-test4.jpg"><img class="alignnone size-full wp-image-534" title="multitouches-test4" src="http://kong.vn/images/2011/11/multitouches-test4.jpg" alt="" width="320" height="195" /></a>
 
 6. Twist 2 finger around to form a circle, the map is not panned or zoomed
   
-<a href="http://kong.vn/wp-content/uploads/2011/11/multitouches-test5.jpg"><img class="alignnone size-full wp-image-535" title="multitouches-test5" src="http://kong.vn/wp-content/uploads/2011/11/multitouches-test5.jpg" alt="" width="320" height="128" /></a>
+<a href="http://kong.vn/images/2011/11/multitouches-test5.jpg"><img class="alignnone size-full wp-image-535" title="multitouches-test5" src="http://kong.vn/images/2011/11/multitouches-test5.jpg" alt="" width="320" height="128" /></a>
 
 2 point O and X are still in the same place
 
@@ -82,7 +82,7 @@ Now, pan/zoom gestures seem clearer, but how to put these UI tests into code. We
 <blockquote>On a plan, given 2 pair of points A, B and A', B'. How to use <a href="http://www.mathsisfun.com/geometry/transformations.html" target="_blank">transformations (translation, resizing, rotation)</a> to move A to A' and B to B'?</blockquote>
 Below are my step by step solution:
 
-<img class="alignnone size-full wp-image-548" title="multitouches-transforms2" src="http://kong.vn/wp-content/uploads/2011/11/multitouches-transforms2.jpg" alt="" width="472" height="335" />
+<img class="alignnone size-full wp-image-548" title="multitouches-transforms2" src="http://kong.vn/images/2011/11/multitouches-transforms2.jpg" alt="" width="472" height="335" />
 
 - First. move A to A' by using a Translation with vector AA', B is also moved to B1
 - Second, move B1 to B2 by using a resize with origin in A', scale A'B2/A'B1 = A'B'/AB
