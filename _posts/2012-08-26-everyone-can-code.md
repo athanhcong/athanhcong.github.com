@@ -11,7 +11,7 @@ Back to days of 1980, owning a personal computer is much like owning a "personal
 
 I remember, in a movie, the first program Bill Gates wrote for Atari 8800 was in a paper tape. He made software by puching holes on a tape? It seems hard to imagine for young developers.
 
-![Image: Programing in Paper Tape](http://box.kong.vn/2012/programming_in_tape.jpeg)
+![Image: Programing in Paper Tape](http://kong.vn/images/2012/programming_in_tape.jpeg)
 
 [_Image's source_](http://www.tcf.ua.edu/AZ/ITHistoryOutline.htm)
 

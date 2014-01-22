@@ -12,7 +12,7 @@ Thế là tôi chọn xe đạp, tôi bắt đầu bằng những chuyến đạ
 
 Tôi chẳng kể hết ra làm gì cho dài dòng, chỉ viết về cái mà mình tâm đắc nhất. 
 
-![Image: Đạp xe Nha Trang - Sài Gòn](http://box.kong.vn/2012/dap_xe_nt_sg.jpg)
+![Image: Đạp xe Nha Trang - Sài Gòn](http://kong.vn/images/2012/dap_xe_nt_sg.jpg)
 
 Khi thấy anh bạn Hưng Zino đạp xe từ Hà Nội vào Sài gòn. Nhiều người hỏi, tại sao lại khùng như vậy, đi đạp xe xuyên Việt trong vòng 12 ngày? 
 

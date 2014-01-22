@@ -27,7 +27,7 @@ If not money, then __why?__
 
 > _(From Isaacson, Walter, Steve Jobs, Simon & Schuster, 2011, pp. 570.)_
 
-![Image: Steve Jobs on Rich](http://box.kong.vn/2012/steve_jobs_rich.jpg)
+![Image: Steve Jobs on Rich](http://kong.vn/images/2012/steve_jobs_rich.jpg)
 
 His life is giving us a proof that __there has a better and more meaningful way to live our life: build great things.__
 
@@ -39,7 +39,7 @@ It's about 30 years since their start, today we can see there has a trench that,
 
 We all have different motivations to working in a startup. However, I believe many of us have a vision to build things, to solve human problems, and to change the world.
 
-![Image: Steve Jobs: I want to make a dent](http://box.kong.vn/2012/steve_jobs_dent.jpg)
+![Image: Steve Jobs: I want to make a dent](http://kong.vn/images/2012/steve_jobs_dent.jpg)
 
 Passion or Money, Fame... - Whatever motivate people is, at the end of journey, we will all realise that "building great things, is always a better and more meaningful way to live our life"
 
