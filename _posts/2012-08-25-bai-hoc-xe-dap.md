@@ -10,7 +10,7 @@ Quan trọng nhất là đi xe đạp sẽ khiến người ta thương cảm, d
 
 Thế là tôi chọn xe đạp, tôi bắt đầu bằng những chuyến đạp xe ngắn, xong rồi dài hơn và thử thách hơn. Gần đây nhất là đi cùng anh bạn Hưng Zino đoạn đường từ Nha Trang vào Sài Gòn. Nói tóm lại thì tôi vẫn chưa có dịp đi xuyên Việt, nhưng những lần đạp xe đường dài như vậy để lại cho tôi nhiều bài học khó quên.
 
-Tôi chẳng kể hết ra làm gì cho dài dòng, chỉ viết về cái mà mình tâm đắc nhất. 
+Tôi chẳng thể kể hết ra, nên chỉ viết về một điều mà mình tâm đắc nhất. 
 
 ![Image: Đạp xe Nha Trang - Sài Gòn](http://kong.vn/images/2012/dap_xe_nt_sg.jpg)
 
@@ -36,8 +36,8 @@ Bình thường ta đạp xe 30 phút là đã thấy mệt rồi. Chẳng ai mu
 
 Thử đặt mình trong 1 hoàn cảnh khác, ta sẽ thấy giới hạn của mình còn nhiều hơn cái giới hạn thường ngày của mình.
 
-Xong, hết chuyện! Đó là điều mà tôi học được, chẳng có cái gì quá xa mà mình không thể đi tới, hay là quá cao mà mình không với tới được, hay quá khó mà mình không thể vượt qua. Chỉ cần mình cứ tiếp tục, cứ đi, cứ đi, cứ đi, đi miết, đi miết, đi miết, đi hoài, đi hoài đi hoài, đi hoài, đi tiếp, đi tiếp, tiếp tiếp nữa… rồi cũng sẽ tới thôi. haha =))
+Xong, chỉ có thế! Đó là điều mà tôi học được, chẳng có cái gì quá xa mà mình không thể đi tới, hay là quá cao mà mình không với tới được, hay quá khó mà mình không thể vượt qua. Chỉ cần mình cứ tiếp tục, cứ đi, cứ đi, cứ đi, đi miết, đi miết, đi miết, đi hoài, đi hoài đi hoài, đi hoài, đi tiếp, đi tiếp, tiếp tiếp nữa… rồi cũng sẽ tới thôi. :D
 
-….
+…
 
 Từ đó tôi không còn sợ xa nữa!
