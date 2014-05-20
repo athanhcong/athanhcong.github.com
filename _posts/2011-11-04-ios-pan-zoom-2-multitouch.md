@@ -128,4 +128,4 @@ Next step, we go to implement all of these.
 }</pre>
 I think the implementation is clear enough now.
 
-You can get (source code of completed project in this post)[/touchphoto-project-pan-zoom-with-multitouch/].
+You can get [source code of completed project in this post](/ios-pan-zoom/).
