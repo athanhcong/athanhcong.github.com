@@ -108,7 +108,10 @@ How to keep that corner stay in screen when we want to zoom at it.
 + We first make a zoom, as usual, at center of screen.
 + Then, perform a pan to move the corner back to appropriate part of screen.
 
-[caption id="attachment_518" align="alignnone" width="310" caption="We want to pan Ao back to A"]<img class="size-full wp-image-518" title="zoom-moving" src="http://kong.vn/images/2011/09/zoom-moving.png" alt="" width="310" height="239" />[/caption]
+[](http://kong.vn/images/2011/09/zoom-moving.png)
+
+_We want to pan Ao back to A_
+
 
 This is a tough part: understand the hierachy of drawing a texture from OpenGL to UIKit view. Take a look at how we draw a texture again.
 <pre>Texture------&gt; OpenGLES framebuffer ---&gt; UIView -&gt; iPhone screen</pre>
