@@ -29,7 +29,7 @@ Living in office also forces me to live as a minimalist. I barely buy things, ma
 
 My life is also in minimal in to main activities: work, sleep, eat, run. Keep focus myself into the things that matters. Remember to call dad, Kong!
 
-![](http://distilleryimage0.instagram.com/42de5d1e912a11e2815722000aaa049c_7.jpg)
+![](http://distilleryimage10.ak.instagram.com/96c3a728bd3f11e1b9f1123138140926_7.jpg)
 
 ### Taking even more risk
 This month, something big happened. I left my job. I want to focus more for my project, a new startup. My real adventure is happening now.
