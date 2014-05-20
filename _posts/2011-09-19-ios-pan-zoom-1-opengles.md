@@ -108,7 +108,7 @@ How to keep that corner stay in screen when we want to zoom at it.
 + We first make a zoom, as usual, at center of screen.
 + Then, perform a pan to move the corner back to appropriate part of screen.
 
-[](http://kong.vn/images/2011/09/zoom-moving.png)
+![](http://kong.vn/images/2011/09/zoom-moving.png)
 
 _We want to pan Ao back to A_
 
