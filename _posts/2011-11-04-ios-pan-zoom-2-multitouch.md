@@ -13,7 +13,7 @@ type: post
 published: true
 meta:
 ---
-In <a title="Pan/zoom in iOS (Part 1) – Setting OpenGLES" href="http://kong.vn/2011/09/pan-zoom-multitouch-1/" target="_blank">previous post of this series</a>, we know how to pan, rotate and zoom at any point with OpenGL. This post will help you glue all of these internal functions with natural multitouch gestures.
+In [previous post of this series](/ios-pan-zoom-1-opengles/), we know how to pan, rotate and zoom at any point with OpenGL. This post will help you glue all of these internal functions with natural multitouch gestures.
 
 Firstly, we need to know <strong>how are touches passed into code?</strong>
 By these delegate:
@@ -52,7 +52,7 @@ To find it, firstly let's perform some UI tests on Google Maps app to see how r
 
 <img class="alignnone size-full wp-image-531" title="multitouches-test1" src="http://kong.vn/images/2011/11/multitouches-test1.jpg" alt="" width="320" height="210" />
 
-The image is enlarged with a scale A'B'/AB  
+The image is enlarged with a scale A'B'/AB
 2. Hold a finger on screen, move another, the map's zoomed, 2 marks is still under your finger.
 
 <a href="http://kong.vn/images/2011/11/multitouches-test3.jpg"><img class="alignnone size-full wp-image-533" title="multitouches-test3" src="http://kong.vn/images/2011/11/multitouches-test3.jpg" alt="" width="320" height="144" /></a>
@@ -128,4 +128,4 @@ Next step, we go to implement all of these.
 }</pre>
 I think the implementation is clear enough now.
 
-You can get <a title="Pan/zoom with multitouch: TouchPhoto project" href="http://kong.vn/2012/02/pan-zoom-multitouch-project/">source code of completed project in this post</a>.
+You can get (source code of completed project in this post)[/touchphoto-project-pan-zoom-with-multitouch/].

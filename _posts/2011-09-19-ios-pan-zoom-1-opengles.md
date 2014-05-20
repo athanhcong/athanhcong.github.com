@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pan/zoom in iOS (Part 1) - OpenGLES Setting
+title: Pan/zoom in iOS (Part 1) - OpenGLES Settings
 tags:
 - English
 - iPhone
@@ -24,12 +24,16 @@ meta:
 What is your first impression with the iPhone or any smart phone nowadays?
 To me, that is how people touch their fingers to screen, use gestures to manipulate objects, like pan to move or pinch to zoom a map, a photo...
 
-[caption id="attachment_511" align="alignnone" width="400" caption="Gestures like &quot;pan to move&quot; or &quot;pinch to zoom&quot; become industry standard. (Image source: top9tip.com)"]<a href="http://kong.vn/images/2011/09/zoom-gesture.jpg"><img class="size-full wp-image-511 " title="zoom-gesture" src="http://kong.vn/images/2011/09/zoom-gesture.jpg" alt="" width="400" height="266" /></a>[/caption]
+![](http://kong.vn/images/2011/09/zoom-gesture.jpg)
+
+_Gestures like "pan to move or "pinch to zoom" become industry standard._
 
 This post will show you how to implement your own pan/zoom. Let's check how we can play with photos in Pic Collage and get some feeling what we are going to build.
 
-http://www.youtube.com/watch?v=qSN5fPDinzs
-<h1>1. Setting up OpenGLES</h1>
+[http://www.youtube.com/watch?v=qSN5fPDinzs](http://www.youtube.com/watch?v=qSN5fPDinzs)
+
+#1. Setting up OpenGLES
+
 In this step, we want to load an image and put it in the iPhone screen. To do this, you know a litle about OpenGLES on iOS and how to load an image into that.
 <pre>Texture------&gt; OpenGLES framebuffer ---&gt; view -&gt; iPhone screen</pre>
 If you do not know anything about that, <a href="http://www.raywenderlich.com/5223/beginning-opengl-es-2-0-with-glkit-part-1" target="_blank">this tutorial</a> will be a good start.
@@ -154,6 +158,6 @@ The transforming method for step (2), (3) and (4) will be in the source code.
 
 That's it! Congratz,
 
-In next part, we will know how to <a title="Pan/zoom in iOS (Part 2) – Handle multitouch" href="http://kong.vn/2011/11/pan-zoom-multitouch-2/">handle multitouches and perform pan/zoom with fingers</a>.
+In next part, we will know how to <a title="Pan/zoom in iOS (Part 2) – Handle multitouch" href="http://kong.vn/ios-pan-zoom-2-multitouch/">handle multitouches and perform pan/zoom with fingers</a>.
 
-You can get <a title="Pan/zoom with multitouch: TouchPhoto project" href="http://kong.vn/2012/02/pan-zoom-multitouch-project/">source code of completed project in this post</a>.
+You can get <a title="Pan/zoom with multitouch: TouchPhoto project" href="http://kong.vn/touchphoto-project-pan-zoom-with-multitouch/">source code of completed project in this post</a>.
