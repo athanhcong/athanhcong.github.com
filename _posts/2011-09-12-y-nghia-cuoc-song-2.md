@@ -8,7 +8,7 @@ tags:
 - Vietnamese
 ---
 
-Đó là câu hỏi mà lời giải sẽ được hé mở dần trong cuộc đời mỗi người. Là một góc nhỏ mà mỗi khi có cơ hội bạn lại <a title="[YNCS]#1 Vì sao tôi lại đi tìm Ý nghĩa cuộc sống?" href="http://kong.vn/yncs-1-vi-sao-toi-lai-di-tim-y-nghia-cuoc-song/">lục ra</a> nhâm nhi nghiền ngẫm.
+Đó là câu hỏi mà lời giải sẽ được hé mở dần trong cuộc đời mỗi người. Là một góc nhỏ mà mỗi khi có cơ hội bạn lại <a title="[YNCS]#1 Vì sao tôi lại đi tìm Ý nghĩa cuộc sống?" href="http://athanhcong.blogspot.com/2009/04/yncs1-vi-sao-toi-lai-i-tim-y-nghia-cuoc.html">lục ra</a> nhâm nhi nghiền ngẫm.
 
 Tôi tuổi 25, đối diện với cái chết của những người xung quanh, những người đã mãi mãi ra đi, dù tôi có muôn ngàn lần không muốn tin điều đó lại xảy ra.
 

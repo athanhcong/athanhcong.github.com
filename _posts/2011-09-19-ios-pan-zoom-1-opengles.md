@@ -160,4 +160,4 @@ That's it! Congratz,
 
 In next part, we will know how to <a title="Pan/zoom in iOS (Part 2) – Handle multitouch" href="http://kong.vn/ios-pan-zoom-2-multitouch/">handle multitouches and perform pan/zoom with fingers</a>.
 
-You can get <a title="Pan/zoom with multitouch: TouchPhoto project" href="http://kong.vn/touchphoto-project-pan-zoom-with-multitouch/">source code of completed project in this post</a>.
+You can get [source code of completed project in this post](/ios-pan-zoom/).
