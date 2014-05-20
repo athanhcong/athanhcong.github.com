@@ -5,7 +5,7 @@ tag: movie, startup, life
 
 ---
 
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/Iz13cWUokOs&hl=en_US&amp;start=9855&amp;version=3"></param><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Iz13cWUokOs&hl=en_US&start=9855" type="application/x-shockwave-flash" allowscriptaccess="always" width="640" height="385" allowfullscreen="true"></embed></object>
+<iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/YmvHzCLP6ug" frameborder="0" allowfullscreen></iframe>
 
 **Les Miserables (2012)** - the movie - is showing in cinemar, that I recommend to watch. The story is great, the music is so amazing, that make me search for [the musical concert version](http://youtu.be/Iz13cWUokOs) to watch it again today.
 
@@ -16,4 +16,4 @@ I also realize is that, in this musical party, everyone has their talent and shi
 That is the thing I realized, if you ever find something to fight for, to work with, remember to **stand for something larger than yourself**.
 
 Build something large enough that you are proud to be a part of it,
-<small>not something, too small, that you want to take them all.</small>
+not something, too small, that you want to take them all.

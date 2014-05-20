@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog with Evernote
+title: Blog with Evernote - What if blogging is as easy as taking note?
 ---
 This post is written in Evernote, and will automatically publish to my Github blog.
 
@@ -15,4 +15,4 @@ I love the simplicity of Jekyll. However, I'm still lazy to start to write an ar
   
 "[Blog with Evernote][0]" is the result of my last 30 hours. It does exactly what I want, automatically publish my note into a blog post.
 
-[0]: http://blogwithevernote.com
+[0]: http://blogwith.co

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How much energy you have for a day
+title: How much energy you have for a day?
 ---
 We all have 24 hours each day, but we don't have a day similar to another. Each of us has different performance for our day. Some of us are doing great, some are always lively, and some feel tired, others are  lack of enthusiasm on anything.
 
