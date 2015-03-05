@@ -30,13 +30,9 @@ I love to build things that hope to be [useful](http://kong.vn/y-nghia-cuoc-song
  * [Cool Quote](https://itunes.apple.com/us/app/cool-quote/id456247724), a simple & beautiful app for reading and sharing quotes from Twitter. Breaktify for Macs, an app that remind people to take break regularly.
 
 ## About my startup
-Our small effort to help Vietnamese catchup with Singapore, Malaysia, Thailand, Philippine and … Cambodia in English learning.
 
-The more connected with the world, the more opportunities for Vietnamese youth.
+At [Why Academy](http://why.academy), we dream to combine Technology and Personal Development to help everyone to learn skills for a better future, and to have a meaningful life.
 
-We build Y Academy, we dream that _"Every Vietnamese is a global citizen"_.
-Checkout our beta launch of our first product [TuDienHinh.com](http://tudienhinh.com)
+30-Day Challenge App helps people to build a new habit or try something new in the next 30 days.
 
-_Startup is so tough, I do really need your help…_
-
- 
+[Apo](http://why.academy/apo) is a gamification English learning app for Vietnamese. This is our small effort to help Vietnamese catchup with Singapore, Malaysia, Thailand, Philippine and … Cambodia in English learning. The more connected with the world, the more opportunities for Vietnamese youth.
