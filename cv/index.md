@@ -33,6 +33,8 @@ I love to build things that hope to be [useful](http://kong.vn/y-nghia-cuoc-song
 
 At [Why Academy](http://why.academy), we dream to combine Technology and Personal Development to help everyone to learn skills for a better future, and to have a meaningful life.
 
-30-Day Challenge App helps people to build a new habit or try something new in the next 30 days.
+* [30-Day Challenge App](https://itunes.apple.com/us/app/challenge/id578183109) helps people to build a new habit or try something new in the next 30 days.
 
-[Apo](http://why.academy/apo) is a gamification English learning app for Vietnamese. This is our small effort to help Vietnamese catchup with Singapore, Malaysia, Thailand, Philippine and … Cambodia in English learning. The more connected with the world, the more opportunities for Vietnamese youth.
+* [Apo](http://why.academy/apo) is a gamification English learning app for Vietnamese. Our dream is "Every Vietnamese is a global citizen". The more connected with the world, the more opportunities for Vietnamese youth.
+
+If you have interests, please contact. I long to talk with people to share our mission in life.
