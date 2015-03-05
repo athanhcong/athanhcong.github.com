@@ -19,6 +19,4 @@ Either in a viral way, words of mouth, social media or press or whatever..., thi
   
 Sell first, sell early, sell often.
 
-  
-  
 ![](/images/d98a617c-c526-467a-9467-0186c8d51729/marketing-review-2.jpg)
